@@ -1,0 +1,14 @@
+C:\Users\guclh\Desktop\LinkedList\SinglyLinkedList\obj\Debug\net8.0\SinglyLinkedList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guclh\Desktop\LinkedList\SinglyLinkedList\obj\Debug\net8.0\SinglyLinkedList.AssemblyInfoInputs.cache
+C:\Users\guclh\Desktop\LinkedList\SinglyLinkedList\obj\Debug\net8.0\SinglyLinkedList.AssemblyInfo.cs
+C:\Users\guclh\Desktop\LinkedList\SinglyLinkedList\obj\Debug\net8.0\SinglyLinkedList.csproj.CoreCompileInputs.cache
+C:\Users\guclh\Desktop\LinkedList\SinglyLinkedList\bin\Debug\net8.0\SinglyLinkedList.exe
+C:\Users\guclh\Desktop\LinkedList\SinglyLinkedList\bin\Debug\net8.0\SinglyLinkedList.deps.json
+C:\Users\guclh\Desktop\LinkedList\SinglyLinkedList\bin\Debug\net8.0\SinglyLinkedList.runtimeconfig.json
+C:\Users\guclh\Desktop\LinkedList\SinglyLinkedList\bin\Debug\net8.0\SinglyLinkedList.dll
+C:\Users\guclh\Desktop\LinkedList\SinglyLinkedList\bin\Debug\net8.0\SinglyLinkedList.pdb
+C:\Users\guclh\Desktop\LinkedList\SinglyLinkedList\obj\Debug\net8.0\SinglyLinkedList.dll
+C:\Users\guclh\Desktop\LinkedList\SinglyLinkedList\obj\Debug\net8.0\refint\SinglyLinkedList.dll
+C:\Users\guclh\Desktop\LinkedList\SinglyLinkedList\obj\Debug\net8.0\SinglyLinkedList.pdb
+C:\Users\guclh\Desktop\LinkedList\SinglyLinkedList\obj\Debug\net8.0\SinglyLinkedList.genruntimeconfig.cache
+C:\Users\guclh\Desktop\LinkedList\SinglyLinkedList\obj\Debug\net8.0\ref\SinglyLinkedList.dll
